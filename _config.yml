@@ -11,8 +11,8 @@ rss: RSS
 
 ### Build settings
 
-url: https://michaelcurrin.github.io
-baseurl: /jekyll-blog-demo
+url: https://hotelartemis.github.io/
+baseurl: /learn1
 
 permalink: pretty
 
